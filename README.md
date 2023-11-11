@@ -7,5 +7,5 @@ docker-compose up
 ```
 
 To acces the swagger go to:
-127.0.0.8/api/docs
+http://127.0.0.1:8000/api/docs/
 in the browser.
